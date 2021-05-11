@@ -17,4 +17,4 @@
 
 <h3 align="center">Contact Me:</h3>
 
-<p><h3 align="center"><a href="https://www.facebook.com/profile.php?id=100063607333742"><img src="Facebook-logo.png" width="65" height="40"></a><a href="http://wa.me/94755958542"><img src="PicsArt_04-10-02.10.09.png" width="40" height="40"></a>             <a href="https://t.me/DaVe_Smith_89"><img src="PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
+<p><h3 align="center"><a href="http://wa.me/94755958542"><img src="PicsArt_04-10-02.10.09.png" width="40" height="40"></a><a href="https://www.facebook.com/profile.php?id=100063607333742"><img src="Facebook-logo.png" width="65" height="40"></a><a href="https://t.me/DaVe_Smith_89"><img src="PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
