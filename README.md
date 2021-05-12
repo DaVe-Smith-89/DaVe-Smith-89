@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dave Smith</h1>
-<h3 align="center">Owner of Sl Cyber Warriors community 👑&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
+<h1 align="center">Hi&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dave Smith</h1>
+<h3 align="center">Owner of Sl Cyber Warriors community 👑&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
 </h3>
 <img src="400086900718_114430.jpg">
 <hr>
